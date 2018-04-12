@@ -1,0 +1,18 @@
+{
+  "name": "test-ipfs-file-sharing",
+  "author": "Gorka",
+  "version": "0.0.1",
+  "dependencies": {
+    "ipfs": "^0.28.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "devDependencies": {
+    "libp2p-webrtc-star": "^0.14.0",
+    "libp2p-websocket-star-rendezvous": "^0.2.3"
+  }
+}
